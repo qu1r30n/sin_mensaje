@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\clases\\chatbot_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|solutionrelative:chatbot_wathsapp\\clases\\chatbot_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\poner_al_inicio_del_programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|solutionrelative:chatbot_wathsapp\\poner_al_inicio_del_programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|c:\\users\\pc1\\documents\\github\\pru3\\chatbot_wathsapp\\clases\\herramientas\\tex_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35750800-E5ED-46DD-9CC8-D4818ADA345C}|chatbot_wathsapp\\chatbot_wathsapp_ai.csproj|solutionrelative:chatbot_wathsapp\\clases\\herramientas\\tex_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tex_base.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\clases\\herramientas\\Tex_base.cs",
+              "RelativeDocumentMoniker": "chatbot_wathsapp\\clases\\herramientas\\Tex_base.cs",
+              "ToolTip": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\clases\\herramientas\\Tex_base.cs",
+              "RelativeToolTip": "chatbot_wathsapp\\clases\\herramientas\\Tex_base.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAHIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:19:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chatbot_clase.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\clases\\chatbot_clase.cs",
+              "RelativeDocumentMoniker": "chatbot_wathsapp\\clases\\chatbot_clase.cs",
+              "ToolTip": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\clases\\chatbot_clase.cs",
+              "RelativeToolTip": "chatbot_wathsapp\\clases\\chatbot_clase.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:58:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "poner_al_inicio_del_programa.cs",
+              "DocumentMoniker": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\poner_al_inicio_del_programa.cs",
+              "RelativeDocumentMoniker": "chatbot_wathsapp\\poner_al_inicio_del_programa.cs",
+              "ToolTip": "C:\\Users\\pc1\\Documents\\GitHub\\pru3\\chatbot_wathsapp\\poner_al_inicio_del_programa.cs",
+              "RelativeToolTip": "chatbot_wathsapp\\poner_al_inicio_del_programa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T18:19:05.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

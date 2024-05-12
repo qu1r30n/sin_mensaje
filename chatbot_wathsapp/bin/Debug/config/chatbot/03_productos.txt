@@ -1,0 +1,2 @@
+nombre_del_producto|precio
+te queria decir:
